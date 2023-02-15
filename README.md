@@ -12,3 +12,6 @@
 * Artificial Intelligence Review [Homepage](https://www.springer.com/journal/10462)
 * Pattern Recognition [Homepage](https://www.sciencedirect.com/journal/pattern-recognition)
 * Journal of the ACM [Homepage](https://dl.acm.org/journal/jacm)
+
+## Top conferences
+* International Conference on Machine Learning [(Homepage)][https://icml.cc/]
