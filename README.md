@@ -14,4 +14,4 @@
 * Journal of the ACM [Homepage](https://dl.acm.org/journal/jacm)
 
 ## Top conferences
-* International Conference on Machine Learning [(Homepage)][https://icml.cc/]
+* International Conference on Machine Learning [(Homepage)](https://icml.cc/)
