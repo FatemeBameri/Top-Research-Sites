@@ -15,3 +15,14 @@
 
 ## Top conferences
 * International Conference on Machine Learning [(Homepage)](https://icml.cc/)
+* Neural Information Processing Systems [(Homepage)](https://nips.cc/)
+* Conference on Computer Vision and Pattern Recognition [(Homepage)](https://cvpr2019.thecvf.com/)
+* International Joint Conferences on Artificial Intelligence [(Homepage)](https://www.ijcai.org/)
+* International Conference on Computer Vision [(Homepage)](https://iccv2019.thecvf.com/)
+* European Conference on Artificial Intelligence [(Homepage)](http://ecai2020.eu/)
+* International Conference on Pattern Recognition Applications and Methods [(Homepage)](https://icpram.scitevents.org/)
+* Association for the Advancement of Artificial Intelligence [(Homepage)](https://sigir.org/)
+* European Conference on Machine learning and knowledge [(Homepage)](https://ecmlpkdd2020.net/)
+* British Machine Vision Conference [(Homepage)](https://bmvc2019.org/)
+* Conference on Computational Natural Language Learning [(Homepage)](https://www.conll.org/)
+* Asian Conference on Computer Vision [(Homepage)](https://accv2020.github.io/)
