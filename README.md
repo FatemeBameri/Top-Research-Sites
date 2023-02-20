@@ -1,4 +1,4 @@
-# Top journals and conferences in Machine Learning
+# Top journals Resources
 ## Top journals
 * Foundations and Trends in Machine Learning [(Homepage)](https://www.nowpublishers.com/MAL)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence [(Homepage)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
@@ -26,3 +26,7 @@
 * British Machine Vision Conference [(Homepage)](https://bmvc2019.org/)
 * Conference on Computational Natural Language Learning [(Homepage)](https://www.conll.org/)
 * Asian Conference on Computer Vision [(Homepage)](https://accv2020.github.io/)
+
+## Top websites and blogs
+* Machine Learning Mastery [link](https://machinelearningmastery.com/)
+* Paperspace Blog [link](https://blog.paperspace.com/)
