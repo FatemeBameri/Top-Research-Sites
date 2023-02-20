@@ -30,3 +30,4 @@
 ## Websites and Blogs
 * Machine Learning Mastery [(link)](https://machinelearningmastery.com/)
 * Paperspace Blog [(link)](https://blog.paperspace.com/)
+* Medium [(link)](https://medium.com/)
