@@ -1,5 +1,5 @@
-# Top journals Resources
-## Top journals
+# Top Resources in Bameri's Research
+## Journals
 * Foundations and Trends in Machine Learning [(Homepage)](https://www.nowpublishers.com/MAL)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence [(Homepage)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 * International Journal of Computer Vision [(Homepage)](https://www.springer.com/journal/11263)
@@ -13,7 +13,7 @@
 * Pattern Recognition [(Homepage)](https://www.sciencedirect.com/journal/pattern-recognition)
 * Journal of the ACM [(Homepage)](https://dl.acm.org/journal/jacm)
 
-## Top conferences
+## Conferences
 * International Conference on Machine Learning [(Homepage)](https://icml.cc/)
 * Neural Information Processing Systems [(Homepage)](https://nips.cc/)
 * Conference on Computer Vision and Pattern Recognition [(Homepage)](https://cvpr2019.thecvf.com/)
@@ -27,6 +27,6 @@
 * Conference on Computational Natural Language Learning [(Homepage)](https://www.conll.org/)
 * Asian Conference on Computer Vision [(Homepage)](https://accv2020.github.io/)
 
-## Top websites and blogs
+## Websites and Blogs
 * Machine Learning Mastery [link](https://machinelearningmastery.com/)
 * Paperspace Blog [link](https://blog.paperspace.com/)
