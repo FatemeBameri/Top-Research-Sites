@@ -28,5 +28,5 @@
 * Asian Conference on Computer Vision [(Homepage)](https://accv2020.github.io/)
 
 ## Websites and Blogs
-* Machine Learning Mastery [link](https://machinelearningmastery.com/)
-* Paperspace Blog [link](https://blog.paperspace.com/)
+* Machine Learning Mastery [(link)](https://machinelearningmastery.com/)
+* Paperspace Blog [(link)](https://blog.paperspace.com/)
