@@ -1,4 +1,4 @@
-# Journals and Conferences in Computer science
+# Important Journals and Conferences in Computer science
 ## Journals
 * Foundations and Trends in Machine Learning [(Homepage)](https://www.nowpublishers.com/MAL)
 * IEEE Transactions on Pattern Analysis and Machine Intelligence [(Homepage)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
